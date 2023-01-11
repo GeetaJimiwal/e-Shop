@@ -1,0 +1,11 @@
+.loader-img{
+    width: 24%;
+    /* position: relative; */
+    position: absolute;
+    margin-top: 298px;
+    /* margin-right: 34px; */
+    margin-left: 616px;
+}
+.loader{
+    position: relative;
+}

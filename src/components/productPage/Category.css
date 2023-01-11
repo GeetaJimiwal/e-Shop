@@ -1,0 +1,21 @@
+.category-div{
+    margin-left: 64px;
+    margin-top: 15px;
+    display: flex;
+    width: 21%;
+}
+.all-category{
+width: 4%;
+font-size: 19px;
+}
+.category-btn{
+    width: 29%;
+    /* width: 26%; */
+    /* padding: 12px; */
+    height: 44px;
+    background-color: black;
+    /* color: wheat; */
+    color: white;
+    font-size: 18px;
+    margin-left: 10px;
+}

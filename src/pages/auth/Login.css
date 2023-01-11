@@ -1,0 +1,99 @@
+.img{
+    width: 27%;
+}
+.container{
+    width: 60%;
+    box-shadow: 0 3px 30px rgb(0 0 0 / 50%);
+    margin: auto;
+    margin-top: 53px;
+    display: flex;
+    padding: 26px;
+}
+.main-flex-center{
+   
+}
+.form{
+    display: grid;
+    margin-left: 25px;
+    margin-top: 52px;
+    animation: slide-down 0.5s ease
+}
+.h2text{
+    font-size: 31px;
+    color: orangered;
+    font-weight: 700;
+    text-align: center;
+}
+.name{
+    margin-top: -26px;
+    width: 91%;
+    padding: 11px;
+    border: 1px solid gainsboro;
+    font-size: 18px;
+    border-radius: 2px;
+}
+.password{
+    margin-top: 12px;
+    width: 91%;
+    padding: 11px;
+    border: 1px solid gainsboro;
+    font-size: 18px;
+}
+.btn{
+    margin-top: 12px;
+    width: 98%;
+    padding: 8px;
+    font-size: 21px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+.fgpassord{
+    color: blue;
+}
+.or{
+    text-align:center;
+}
+.login-google{
+    margin-top: 12px;
+    width: 98%;
+    padding: 8px;
+    font-size: 17px;
+    background-color:orangered;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+.reg{
+    color: black;
+    margin-top: 16px;
+}
+ .registre{
+display: flex;
+ } 
+ .login-register-text{
+    display: flex;
+    width: 100%;
+   
+    font-size: 17px;
+ }
+ .log{
+  
+    color: black;
+ }
+ .reg{
+    margin-left: 283px;
+    color: black;
+ }
+ 
+ 
+
+
+ 
+
+
+ 
+
+
+ 

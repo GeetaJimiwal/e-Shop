@@ -1,0 +1,51 @@
+header{
+    background-color: navy;
+    
+}
+.e-txt{
+    margin-left: 34px;
+    font-size: 27px;
+    color: white
+}
+.shop-txt{
+    font-size: 29px;
+    color: orange;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 24px
+}
+ 
+.header-left{
+    display: flex;
+    width:  58%;
+}
+nav{
+    display: flex;
+    width: 100%
+}
+.logo-container{
+    width: 50%;
+}
+.home-container{
+    display: flex;
+    font-size: 21px;
+    margin-top: 11px;
+}
+.header-right{
+    display: flex;
+    font-size: 20px;
+    margin-top: 34px;
+}
+.count{
+    margin-top: -19px;
+}
+.icon-tag{
+    display: flex;
+}
+.cart-link{
+    display: flex
+}
+ 
+ 
